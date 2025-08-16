@@ -22,8 +22,8 @@ BookStore adalah aplikasi Laravel (local) untuk manajemen toko buku. File README
 1. Clone repository:
 
 ```bash
-git clone <https://github.com/gufarnurcolcomx/bookstore-api.git>
-cd <bookstore-api>
+git clone https://github.com/gufarnurcolcomx/bookstore-api.git
+cd bookstore-api
 ```
 
 2. Install dependency PHP dan JS (**jangan lupa `npm install`**):
