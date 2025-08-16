@@ -113,4 +113,3 @@ Untuk pertanyaan atau bantuan, silakan kunjungi domain berikut dan gunakan formu
 
 ---
 
-*Selesai — README ini dibuat otomatis. Sesuaikan bagian yang diperlukan sebelum dibagikan ke tim.*
